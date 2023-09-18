@@ -1,16 +1,50 @@
-# food_delivery_app
+# Пет проект "Доставка еды"
+	Доставка еды(Flutter pet project)
 
-A new Flutter project.
 
-## Getting Started
+## Описание
+ приложение для доставки еды 
 
-This project is a starting point for a Flutter application.
+Стэк использованных технологий:
+- Dart/Flutter
+- Provider
+- Firebase Storage
+- Firebase Auth
+- FireStore Database
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Установка
+ Инструкции по установке проекта. Введите следующие команды в терминал
+ 1. flutter pub get
+ 2. flutter run
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Скриншоты
+
+![главный экран](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/main-screen.png)
+_Главный экран_
+
+![Скрин продуктов](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/food-gridview.png)
+_Экран продуктов_
+
+![Скрин самого продукта](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/food-card.png)
+_Выбор продукта_
+
+![Скрин Корзины](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/basket-screen.png)
+_Экран корзины_
+
+![Скрин экрана пользователя](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/empty-user-screen.png)
+_Экран личного кабинета_
+
+![Скрин Логина](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/log-in-screen.png)
+_Экран логина_
+
+![Скрин Регистрации](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/sign-up-screen.png)
+_Экран регистрации_
+
+![Скрин Регистрации по телефону](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/log-in-with-phone.png)
+_Экран регистрации по телефону_
+
+
+![Скрин Регистрации Google](https://github.com/bobyzzy/delivery_app/tree/main/assets/screenshoot/log-in-with-google.png)
+_Экран регистрации Google_
