@@ -22,7 +22,7 @@
 ## Скриншоты
 
 ![главный экран](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/main-screen.png)
-_Главный экран_{width=300px height= 500px}
+{width=300px height= 500px} _Главный экран_
 
 ![Скрин продуктов](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/food-gridview.png){width=300px height= 500px}
 _Экран продуктов_
