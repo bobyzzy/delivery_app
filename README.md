@@ -21,30 +21,30 @@
 
 ## Скриншоты
 
-![главный экран](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/main-screen.png)
+![главный экран](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/main-screen.png)
 _Главный экран_
 
-![Скрин продуктов](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/food-gridview.png)
+![Скрин продуктов](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/food-gridview.png)
 _Экран продуктов_
 
-![Скрин самого продукта](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/food-card.png)
+![Скрин самого продукта](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/food-card.png)
 _Выбор продукта_
 
-![Скрин Корзины](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/basket-screen.png)
+![Скрин Корзины](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/basket-screen.png)
 _Экран корзины_
 
-![Скрин экрана пользователя](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/empty-user-screen.png)
+![Скрин экрана пользователя](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/empty-user-screen.png)
 _Экран личного кабинета_
 
-![Скрин Логина](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/log-in-screen.png)
+![Скрин Логина](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-screen.png)
 _Экран логина_
 
-![Скрин Регистрации](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/sign-up-screen.png)
+![Скрин Регистрации](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/sign-up-screen.png)
 _Экран регистрации_
 
-![Скрин Регистрации по телефону](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/log-in-with-phone.png)
+![Скрин Регистрации по телефону](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/log-in-with-phone.png)
 _Экран регистрации по телефону_
 
 
-![Скрин Регистрации Google](https://github.com/bobyzzy/delivery_app/blob/main/assets/screenshoot/log-in-with-google.png)
+![Скрин Регистрации Google](https://github.com/bobyzzy/delivery_app/blob/main/screenshoot/log-in-with-google.png)
 _Экран регистрации Google_
