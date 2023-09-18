@@ -21,30 +21,30 @@
 
 ## Скриншоты
 
-![главный экран](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/main-screen.png)
+![главный экран](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/main-screen.png){width=300 height= 500}
 _Главный экран_
 
-![Скрин продуктов](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/food-gridview.png)
+![Скрин продуктов](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/food-gridview.png){width=300 height= 500}
 _Экран продуктов_
 
-![Скрин самого продукта](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/food-card.png)
+![Скрин самого продукта](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/food-card.png){width=300 height= 500}
 _Выбор продукта_
 
-![Скрин Корзины](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/basket-screen.png)
+![Скрин Корзины](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/basket-screen.png){width=300 height= 500}
 _Экран корзины_
 
-![Скрин экрана пользователя](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/empty-user-screen.png)
+![Скрин экрана пользователя](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/empty-user-screen.png){width=300 height= 500}
 _Экран личного кабинета_
 
-![Скрин Логина](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-screen.png)
+![Скрин Логина](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-screen.png){width=300 height= 500}
 _Экран логина_
 
-![Скрин Регистрации](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/sign-up-screen.png)
+![Скрин Регистрации](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/sign-up-screen.png){width=300 height= 500}
 _Экран регистрации_
 
-![Скрин Регистрации по телефону](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-with-phone.png)
+![Скрин Регистрации по телефону](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-with-phone.png){width=300 height= 500}
 _Экран регистрации по телефону_
 
 
-![Скрин Регистрации Google](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-with-google.png)
+![Скрин Регистрации Google](https://github.com/bobyzzy/delivery_app/blob/main/screenshots/log-in-with-google.png){width=300 height= 500}
 _Экран регистрации Google_
